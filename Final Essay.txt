@@ -1,0 +1,12 @@
+How can you apply the information you’ve learned in this course?
+To troubleshoot web pages and to carry out user acceptance testing
+What were the benefits for you of taking the course?
+I wasa able to review a few procedures I had learned before, and also learned new brand new topics like JS and CSS.
+Why is web development a required skill for developers?
+Fron my perspective, web developers should keep track of every user facing tool or system. That way, web developers could  detect errors or bugs early on.
+How do you expect to use HTML in your chosen career?
+Most likely as a mockup tool or to run A/B testing.
+What did you enjoy about this course?
+I was able to draw on my past experience and also research and come up with a solution on the fly.
+Regarding this course, is there anything else you’d like to say?
+This is a great course!
