@@ -8,7 +8,7 @@ Here are my most recent websites using HTML and CSS.
 - Movie Theater site
 
 ### Space Station
-This site offers a glimpse into the future. I styled it using CSS, inclusind a navbar, image containers and a form.
+This site offers a glimpse into the future. I styled it using CSS, including a navbar, image containers and a form.
 
 ### Movie Theater
 
