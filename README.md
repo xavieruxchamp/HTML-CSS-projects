@@ -2,13 +2,13 @@
 
 Here are my most recent websites using HTML and CSS.
 
-<h2>Projects</h2>
+## Projects
 
 - Space Station site
 - Movie Theater site
 
-<h3>Space Station</h3>
+### Space Station
 
-<h3>Movie Theater</h3>
+### Movie Theater
 
 
